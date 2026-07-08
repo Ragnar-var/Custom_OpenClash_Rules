@@ -270,6 +270,7 @@ payload:
   - DOMAIN-SUFFIX,aosikazyy.com
   - DOMAIN-SUFFIX,vywhoody.com
   - DOMAIN-SUFFIX,bxcdn.net
+  - DOMAIN-SUFFIX,hohoj.tv
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
