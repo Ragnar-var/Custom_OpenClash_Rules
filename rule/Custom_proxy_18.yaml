@@ -272,8 +272,16 @@ payload:
   - DOMAIN-SUFFIX,bxcdn.net
   - DOMAIN-SUFFIX,hohoj.tv
   - DOMAIN-SUFFIX,m3u8hls.com
-  - DOMAIN-SUFFIX,lsbbf3.com
   - DOMAIN-SUFFIX,hlsplayer.org
+  - DOMAIN-SUFFIX,lsbbf1.com
+  - DOMAIN-SUFFIX,lsbbf2.com
+  - DOMAIN-SUFFIX,lsbbf3.com
+  - DOMAIN-SUFFIX,lsbbf4.com
+  - DOMAIN-SUFFIX,lsbbf5.com
+  - DOMAIN-SUFFIX,lsbbf6.com
+  - DOMAIN-SUFFIX,lsbbf7.com
+  - DOMAIN-SUFFIX,lsbbf8.com
+  - DOMAIN-SUFFIX,lsbbf9.com
   - DOMAIN-SUFFIX,lsbbf10.com
   
   # === 客户端 / API / 关键词命中 ===
