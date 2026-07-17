@@ -274,6 +274,7 @@ payload:
   - DOMAIN-SUFFIX,m3u8hls.com
   - DOMAIN-SUFFIX,lsbbf3.com
   - DOMAIN-SUFFIX,hlsplayer.org
+  - DOMAIN-SUFFIX,lsbbf10.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
