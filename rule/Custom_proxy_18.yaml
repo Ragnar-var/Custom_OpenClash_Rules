@@ -283,6 +283,8 @@ payload:
   - DOMAIN-SUFFIX,lsbbf8.com
   - DOMAIN-SUFFIX,lsbbf9.com
   - DOMAIN-SUFFIX,lsbbf10.com
+  - DOMAIN-SUFFIX,streamfastpro.com
+  - DOMAIN-SUFFIX,eemmhh02.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
