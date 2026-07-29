@@ -287,6 +287,7 @@ payload:
   - DOMAIN-SUFFIX,eemmhh02.com
   - DOMAIN-SUFFIX,cartoonporn.pro
   - DOMAIN-SUFFIX,xanimu.com
+  - DOMAIN-SUFFIX,nosofiles.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
