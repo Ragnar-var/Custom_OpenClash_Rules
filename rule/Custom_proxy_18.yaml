@@ -292,6 +292,7 @@ payload:
   - DOMAIN-SUFFIX,haij.net
   - DOMAIN-SUFFIX,haijiao.ai
   - DOMAIN-SUFFIX,hjw1.com
+  - DOMAIN-SUFFIX,mrds66.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
