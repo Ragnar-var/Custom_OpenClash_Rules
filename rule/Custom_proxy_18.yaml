@@ -288,6 +288,10 @@ payload:
   - DOMAIN-SUFFIX,cartoonporn.pro
   - DOMAIN-SUFFIX,xanimu.com
   - DOMAIN-SUFFIX,nosofiles.com
+  - DOMAIN-SUFFIX,hjw01.com
+  - DOMAIN-SUFFIX,haij.net
+  - DOMAIN-SUFFIX,haijiao.ai
+  - DOMAIN-SUFFIX,hjw1.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
