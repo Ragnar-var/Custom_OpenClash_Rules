@@ -295,6 +295,7 @@ payload:
   - DOMAIN-SUFFIX,mrds66.com
   - DOMAIN-SUFFIX,yasetube.com
   - DOMAIN-SUFFIX,dycg66.com
+  - DOMAIN-SUFFIX,tsbfask.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
